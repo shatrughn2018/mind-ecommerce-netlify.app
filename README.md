@@ -1,0 +1,1 @@
+# mind-ecommerce-netlify.app
